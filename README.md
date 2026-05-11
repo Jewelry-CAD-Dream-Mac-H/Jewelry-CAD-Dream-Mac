@@ -1,7 +1,7 @@
 # Jewelry CAD Dream – Professional Jewelry Design CAD Software
 
 <p align="center">
-  <img src="https://jewelrycaddream.com/wp-content/uploads/2024/06/logo-new-purple-scaled.webp" width="150" alt="Jewelry CAD Dream icon"/>
+  <img src="https://camo.githubusercontent.com/ac6059c7c802f76b649032687b4cbe4fd7316f29974334fa83205615425dfc5f/68747470733a2f2f6a6577656c7279636164647265616d2e636f6d2f77702d636f6e74656e742f75706c6f6164732f323032342f30362f6c6f676f2d6e65772d707572706c652d7363616c65642e77656270" width="150" alt="Jewelry CAD Dream icon"/>
 </p>
 
 <p align="center">
@@ -57,7 +57,7 @@ The <a href="#">dimension and measurement tools</a> verify wall thickness, prong
 ---
 
 <p align="center">
-  <img src="https://jewelrycaddream.com/wp-content/uploads/2024/06/logo-new-purple-scaled.webp" alt="Jewelry CAD Dream screenshot 2"/>
+  <img src="https://formlabs.com/_next/image/?url=https%3A%2F%2Fformlabs-media.formlabs.com%2Ffiler_public_thumbnails%2Ffiler_public%2F0b%2F3c%2F0b3c0515-5eef-47c5-a756-141e078c6ab4%2Fimage5.jpg__1354x0_q85_subsampling-2.jpg&w=3840&q=75" alt="Jewelry CAD Dream screenshot 2"/>
 </p>
 
 ## 🌍 Where It's Useful & Additional Information
